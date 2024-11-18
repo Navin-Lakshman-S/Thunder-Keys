@@ -1,5 +1,6 @@
 OUT = Thunder-Keys
 FILE = TypingSpeedTest.go
+
 all: linux windows mac
 
 linux:
