@@ -120,10 +120,6 @@ After downloading the binary, follow these steps to run the game:
 
 Enjoy improving your typing speed!
 
-
----
-
-
 ---
 
 
