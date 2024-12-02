@@ -28,9 +28,9 @@ A **Typing Speed Test Game** built using Go (Golang) to help you test and improv
 ### Download the Binary
 1. Go to the **Releases** section of this repository.
 2. Download the binary for your operating system:
-   - **Windows**: `type-win.exe`
-   - **macOS**: `type-mac`
-   - **Linux**: `type-linux`
+   - **Windows**: `TypingSpeedTestWindows.exeTypingSpeedTestWindows.exe`
+   - **macOS**: `TypingSpeedTestmac`
+   - **Linux**: `TypingSpeedTestLinux`
 
 ---
 
@@ -46,11 +46,11 @@ After downloading the binary, follow these steps to run the game:
 2. Navigate to the folder where you downloaded the binary.
 3. Make the binary executable (only needed once):
    ```bash
-   chmod +x type-linux
+   chmod +x TypingSpeedTestLinux
    ```
 4. Run the binary:
    ```bash
-   ./type-linux
+   ./TypingSpeedTestLinux
    ```
 ---
 
@@ -62,9 +62,9 @@ After downloading the binary, follow these steps to run the game:
 1. Navigate to the folder where you downloaded the binary.
 2. Run the binary:
    ```bash
-   type-win.exe
+   TypingSpeedTestWindows.exe
    ```
-
+If this doesn't work, then move to the directory from your file explorer then try opening the binary file, then you will be getting a notifying GUI box, select more, then click `Run anyway
 ---
 
 #### **macOS**
