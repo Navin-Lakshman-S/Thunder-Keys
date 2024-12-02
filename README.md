@@ -64,7 +64,7 @@ After downloading the binary, follow these steps to run the game:
    ```bash
    TypingSpeedTestWindows.exe
    ```
-   If this doesn't work, then move to the directory from your file explorer then try opening the binary file, then you will be getting a notifying GUI box, select more, then click `Run anyway`.
+   If this doesn't work, then move to the directory from your file explorer then try opening the binary file, then you will be getting a notifying GUI box, select `more info`, then click `Run anyway`.
    Now your binary file will be running in your terminal.
 ---
 
