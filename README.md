@@ -28,7 +28,7 @@ A **Typing Speed Test Game** built using Go (Golang) to help you test and improv
 ### Download the Binary
 1. Go to the **Releases** section of this repository.
 2. Download the binary for your operating system:
-   - **Windows**: `TypingSpeedTestWindows.exeTypingSpeedTestWindows.exe`
+   - **Windows**: `TypingSpeedTestWindows.exe`
    - **macOS**: `TypingSpeedTestmac`
    - **Linux**: `TypingSpeedTestLinux`
 
