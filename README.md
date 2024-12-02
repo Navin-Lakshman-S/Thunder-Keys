@@ -64,7 +64,8 @@ After downloading the binary, follow these steps to run the game:
    ```bash
    TypingSpeedTestWindows.exe
    ```
-If this doesn't work, then move to the directory from your file explorer then try opening the binary file, then you will be getting a notifying GUI box, select more, then click `Run anyway
+   If this doesn't work, then move to the directory from your file explorer then try opening the binary file, then you will be getting a notifying GUI box, select more, then click `Run anyway`.
+   Now your binary file will be running in your terminal.
 ---
 
 #### **macOS**
@@ -72,14 +73,14 @@ If this doesn't work, then move to the directory from your file explorer then tr
 2. Navigate to the folder where you downloaded the binary.
 3. Make the binary executable (only needed once):
    ```bash
-   chmod +x type-mac
+   chmod +x TypingSpeedTestmac
    ```
 4. Run the binary:
    ```bash
-   ./type-mac
+   ./TypingSpeedTestmac
    ```
 
-
+   if this doesn't work then move to the folder in which the binary file is downloaded through `finder` or using your GUI file explorer or equivalent then open with terminal click `Run Anyway` now you can see your file running in your terminal
 
 ---
 
@@ -109,10 +110,17 @@ If this doesn't work, then move to the directory from your file explorer then tr
 
    ```
 5. Run the generated binary:
-   ```bash
    
+   Unix based:
+   
+   ```bash
    ./TypingSpeedTest
+   ```
+   
+   Windows:
 
+   ```bash
+   TypingSpeedTest.exe
    ```
 
 ---
